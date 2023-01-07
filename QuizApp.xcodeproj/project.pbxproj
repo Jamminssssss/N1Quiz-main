@@ -32,7 +32,6 @@
 		16593410279E8A7F00A1C9AE /* GameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
 		1687AE7B279D80600007CC50 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		16B8C5C7279E5DE5008529E2 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
-		16E0E4A7291BA7BD007D52A0 /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "BebasNeue-Regular.ttf"; path = "../../../../Downloads/Bebas_Neue/BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
 		16E842E0279D2FEF0036CF7B /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		16F750D7279C596D00658944 /* QuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16F750DA279C596D00658944 /* QuizAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizAppApp.swift; sourceTree = "<group>"; };
@@ -60,14 +59,6 @@
 				1637584E27A1643A00D5AA00 /* ResultsViewModel.swift */,
 			);
 			path = ViewModals;
-			sourceTree = "<group>";
-		};
-		16E0E4A6291BA787007D52A0 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				16E0E4A7291BA7BD007D52A0 /* BebasNeue-Regular.ttf */,
-			);
-			path = Fonts;
 			sourceTree = "<group>";
 		};
 		16E842E3279D52A90036CF7B /* Models */ = {
@@ -111,7 +102,6 @@
 			isa = PBXGroup;
 			children = (
 				1637E71727AA3E2C005E6051 /* Info.plist */,
-				16E0E4A6291BA787007D52A0 /* Fonts */,
 				16F750DA279C596D00658944 /* QuizAppApp.swift */,
 				16593412279E8ABA00A1C9AE /* ViewModals */,
 				16E842E4279D52CA0036CF7B /* Views */,
